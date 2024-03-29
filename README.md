@@ -4,8 +4,8 @@
 2. run `composer install`.
 3. config database and run migrations.
 4. run `npm install`.
-5. run `npm run dev`.
-6. run `php artisan serve`.
+5. run `php artisan serve`.
+6. run `npm run dev`.
 7. access `/files` route.
 
 php version  - 8.2,
